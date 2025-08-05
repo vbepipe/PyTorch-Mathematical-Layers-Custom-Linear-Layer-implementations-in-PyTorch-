@@ -109,12 +109,14 @@ Contributions are welcome! To add a new custom layer:
 
 If you use this code in your research, please cite:
 
-      @software{ PyTorch-Mathematical-Layers-Custom-Linear-Layer-implementations-in-PyTorch-,
-      title={PyTorch Mathematical Layers (Custom Linear Layer implementations in PyTorch)},
-      author={Vinayak Patel},
-      year={2025},
-      url={https://github.com/vbepipe/PyTorch-Mathematical-Layers-Custom-Linear-Layer-implementations-in-PyTorch-} }
-
+```bibtex
+@software{PyTorchMathematicalLayers2025,
+  title  = {PyTorch Mathematical Layers (Custom Linear Layer Implementations in PyTorch)},
+  author = {Vinayak Patel},
+  year   = {2025},
+  url    = {https://github.com/vbepipe/PyTorch-Mathematical-Layers-Custom-Linear-Layer-implementations-in-PyTorch-}
+}
+```
 
 ## 🔗 Related Work
 
@@ -125,3 +127,6 @@ If you use this code in your research, please cite:
 ---
 
 **⭐ Star this repository if you find it useful!**
+
+
+
