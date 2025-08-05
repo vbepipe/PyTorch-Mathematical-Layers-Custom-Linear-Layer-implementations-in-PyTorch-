@@ -105,10 +105,6 @@ Contributions are welcome! To add a new custom layer:
 3. Update the documentation and examples
 4. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📚 Citation
 
 If you use this code in your research, please cite:
