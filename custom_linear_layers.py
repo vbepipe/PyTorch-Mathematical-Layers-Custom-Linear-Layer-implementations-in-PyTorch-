@@ -5,9 +5,9 @@ Custom Linear Layer Implementations in PyTorch
 This module implements various mathematical transformations as custom linear layers
 that can be used as drop-in replacements for standard PyTorch linear layers.
 
-Author: [Your Name]
-Date: [Current Date]
-License: MIT
+Author: Vinayak Patel
+Date: 4th August 2025
+Location: Vadodara, India.
 
 Features:
 - 7 different custom linear layer implementations
