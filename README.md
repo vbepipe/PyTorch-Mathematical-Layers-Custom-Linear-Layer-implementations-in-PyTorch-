@@ -21,14 +21,49 @@ A comprehensive collection of mathematically-inspired custom linear layer implem
 | **Gaussian** | `output = exp(-‖x - w‖² / σ²) + bias` | Local smooth relationships |
 | **Fourier** | `output = A×cos(ω×(input @ weight.T) + φ) + bias` | Oscillatory behavior |
 
+
+# How to Run PyTorch Custom Linear Layers
+
+This guide provides step-by-step instructions to run the PyTorch Custom Linear Layers comparison experiment.
+
 ## 🛠️ Installation
 
 ### Prerequisites
 - Python 3.7 or higher
 - PyTorch 1.9.0 or higher
 
-### Install Dependencies
-pip install -r requirements.txt
+## Method 1: Clone and Run (Recommended)
+
+### Step 1: Clone the Repository
+
+`git clone [[https://github.com/yourusername/PyTorch-Custom-Linear-Layers.git](https://github.com/vbepipe/PyTorch-Mathematical-Layers-Custom-Linear-Layer-implementations-in-PyTorch-.git)]`
+
+`cd PyTorch-Mathematical-Layers-Custom-Linear-Layer-implementations-in-PyTorch-`
+
+### Step 2: Create Virtual Environment (Optional but Recommended)
+
+**Create virtual environment**
+
+`python -m venv venv`
+
+**Activate virtual environment**
+
+**On Windows:**
+
+`venv\Scripts\activate`
+
+**On macOS/Linux:**
+
+`source venv/bin/activate`
+
+### Step 3: Install Dependencies
+
+`pip install -r requirements.txt`
+
+### Step 4: Run Code
+
+`python custom_linear_layers.py`
+
 
 ## 🚀 Quick Start
 
